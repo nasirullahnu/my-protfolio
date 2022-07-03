@@ -18,3 +18,10 @@ section{
 .half-widht img{
     width: 100%;
 }
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, blue);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
