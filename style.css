@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 30px;
 }
 h1{
     font-size: 50px;
@@ -11,8 +12,9 @@ section{
     display: flex;
 }
 .half-widht{
-    width: 50%;
+    width: 90%;
+    padding-left: 10%;
 }
-.half-widht image{
+.half-widht img{
     width: 100%;
 }
