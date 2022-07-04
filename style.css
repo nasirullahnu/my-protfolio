@@ -22,6 +22,7 @@ h2{
 .half-widht img{
     width: 100%;
     border-radius: 50%;
+    border-left: 10px solid darkblue;
 }
 .hire-button{
     text-decoration: none;
@@ -48,8 +49,8 @@ h2{
 .second-div img{
     width: 100%;
     border-radius: 50%;
-    border-left: 10px solid darkgoldenrod;
-    border-right: 10px solid darkgoldenrod;
+    border-left: 10px solid tomato;
+    border-right: 10px solid tomato;
 
 }
 .experience-tiem{
