@@ -29,4 +29,18 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     padding: 20px;
+    margin-bottom: 100px;
+
+}
+.second-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second-div{
+    width: 90%;
+    padding: 5%;
+}
+.second-div img{
+    width: 100%;
 }
